@@ -18,13 +18,19 @@ I like turning specifications into RTL, and then spending an unreasonable amount
 ## 🛠️ Skills
 
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-1F6FEB?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**EDA Tools:** Cadence Xcelium 25.03, EDA Playground
+**EDA & Simulation:** Cadence Xcelium 25.03, Vivado, Icarus Verilog, GTKWave, EDA Playground
+
+**Circuit Simulation & Embedded:** Proteus, Multisim, Keil µVision, Arduino IDE
+
+**Design & Analysis:** MATLAB, Solid Edge, COMSOL
 
 ---
 
